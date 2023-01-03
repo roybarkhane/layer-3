@@ -165,7 +165,7 @@ Giant Waterproofing Co.
                     <dd>Necessary construction water and power required forexecution of our work should be provided free of cost by you.</dd>
                 </li>
             </ol>
-            <h4 style="border:1px solid blue; padding: 20px; margin-top:20px;">Warranty : 5 Years (Five Years) (from the date of completion of the work )
+            <h4 style="border:1px solid blue; padding: 20px; margin-top:20px;">Warranty : 5 Years (Five Years) (from the date of completion of the work ) <b>T&C Apply</b>
                 </h4>
             
         </dl>
