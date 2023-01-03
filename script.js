@@ -103,15 +103,15 @@ Giant Waterproofing Co.
     </thead>
     <tbody>
         <tr>
-            <td>2</td>
+            <td>1</td>
             <td><strong>RainPrime</strong></td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>2</td>
             <td><strong>SafeCoat</strong></td>
         </tr>
         <tr>
-            <td>5</td>
+            <td>3</td>
             <td><strong>Cement</strong></td>
         </tr>
     </tbody>
